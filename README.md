@@ -1,6 +1,9 @@
 # Productive-React-App
 * Techology Used:
-* ![React](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/90px-React-icon.svg.png) ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/90px-JavaScript-logo.png) ![HTML5](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/90px-HTML5_logo_and_wordmark.svg.png) ![CSS](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/90px-CSS3_logo_and_wordmark.svg.png)
+* React
+* JavaScript
+* HTML5
+* CSS
 #### Collection of application enhances your productivity
 ### 1. Clock App -- for Managing your Time
 * [Deployed Link](https://gregarious-meerkat-92caba.netlify.app/)
